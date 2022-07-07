@@ -1,0 +1,162 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.opening {
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.update-text {
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgba(9, 240, 97, 0.859), rgb(47, 216, 190));
+    color: white;
+    font-weight: 700px;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+
+.donate-taka {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.text {
+    margin-bottom: 50px;
+}
+
+.flexable-container {
+    display: flex;
+}
+
+.donation-amount {
+    margin-left: 5%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.donation {
+    margin-left: 5%;
+    margin-right: 5%;
+
+    padding: 20px 20px 20px 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px 10px gainsboro;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#input-field {
+    width: 50%;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.donate-button {
+    padding-top: 40px;
+}
+
+.donate-plan {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.donation-item {
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+#selected-donation {
+    background-color: rgba(255, 68, 0, 0.58);
+    border-radius: 5px solid orangered;
+}
+
+
+#foodt-box {
+    background-color: rgba(240, 128, 128, 0.265);
+}
+
+#shelter-box {
+    background-color: rgba(127, 255, 212, 0.434);
+}
+
+#education-box {
+    background-color: rgba(137, 43, 226, 0.338);
+}
+
+.update {
+    text-align: center;
+}
+
+.subscribe {
+    background-color: bisque;
+    padding-left: 20%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 50px;
+
+}
+
+.sub-text {
+    font-weight: bold;
+    color: white;
+}
+
+
+.footer {
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+#footer-heading {
+    color: tomato;
+}
+
+.news {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.half-width img {
+    width: 100%;
+    padding-top: 10%;
+}
+
+.sub-btn {
+    background-color: rgb(227, 116, 69);
+    border: 10px solid rgb(227, 116, 69);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+
+}
